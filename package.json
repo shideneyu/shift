@@ -53,10 +53,10 @@
     "validator.js": "=2.0.3",
     "z-schema": "=3.18.2",
     "sodium": {
-      "version": "=1.2.3",
+      "version": "1.2.3",
       "dependencies": {
         "nan": {
-          "version": "=2.7.0"
+          "version": "2.7.0"
         }
       }
     }
